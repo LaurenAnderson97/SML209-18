@@ -13,6 +13,10 @@
   
   
   <h3> My three favourite things </h3>.
+  <ol>
+ <li> Lighting candles and doing yoga. </li>
+ <li> Reading thriller novels. </li>
+ <li> Listening to music whilst drawing. </li>
   
 
   
