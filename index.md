@@ -4,7 +4,7 @@
 <h2> About me </h2>.
 
 <p> I was born in Carshalton and grew up in Hertfordshire. I am studying Business Mangement and French. I have lived in London for 3 years. If your require to know more about what I currently study, visit my QMPlus Hub Page.
-<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=ml15258=sml209-computers-and-languages-2018-lauren"> visit my QMPlus Hub Page for SML209</a> 
+<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=ml15258&page=sml209-computers-and-languages-2018-lauren"> Visit my QMPlus Hub Page for SML209</a> 
 
 <h3> Things I have to do </h3>.
 <ul>
