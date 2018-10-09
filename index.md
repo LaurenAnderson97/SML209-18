@@ -8,8 +8,11 @@
 <h3> Things I have to do </h3>.
 <ul>
  <li> Start planning my assignments.</li>
-  <li> Do some research </li>
+  <li> Do some research. </li>
   <li> Relpy to Queen Mary emails.</li>
+  
+  
+  <h3> My three favourite things </h3>.
   
 
   
