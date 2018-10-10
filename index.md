@@ -23,3 +23,7 @@
 </ol>
   
 <!-- MAKE SURE YOU CLOSE THE <ol> TAG - </ol> -->
+
+github:
+  page2: page2.html
+  page3: page3.html
