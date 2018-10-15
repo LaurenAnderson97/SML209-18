@@ -27,3 +27,4 @@ Monday 15<sup>th October
  </table>
   
    
+<html lang="fr">Avec le réchauffement climatique, les scientifiques prévoient un renforcement des pluies diluviennes et des crues éclair dans le sud de la France.</html>
