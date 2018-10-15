@@ -16,7 +16,7 @@ Monday 15<sup>th October
    <dd>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
    </dl>
   <table>
- <tr><th> Infinitive </th><th> Past simple </th></tr>
+ <tr><th> Present </th><th> Past</th><th> Future</th></tr>
  <tr><td> to go </td><td> went </td></tr> 
  </table>
   
