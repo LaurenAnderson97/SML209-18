@@ -6,15 +6,15 @@ Monday 15<sup>th October
 <dl>
  <dt>Traveling</dt>
  <dd>To make a journey, typically of some length or to move, typically in a constant or predictable way.</dd>
-</dl>
-<dl>
+
+
  <dt>Enrich</dt>
  <dd>To improve or enhance the quality or value of something or to make someone wealthier.</dd>
- <dl>
-  <dl>
+ 
+  
    <dt>Langauge</dt>
    <dd>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
-  </dl>
+   </dl>
   
     
    
