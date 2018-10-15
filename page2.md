@@ -17,9 +17,12 @@ Monday 15<sup>th October
    </dl>
   <table>
  <tr><th>Subject</th><th> Past</th><th> Past</th><th> Future</th></tr>
- <tr><th> Masculine </th>
-  <tr><th> Feminine </th>
- <tr><td> Neuter </td><td> Feminine </td><td> Neuter </td></tr> 
+ <tr><th> Je </th>
+  <tr><th> Tu </th>
+ <tr><td> Il/Elle/On </td><td> Feminine </td><td> Neuter </td></tr> 
+ <tr><th> Nous </th>
+ <tr><th> Vous </th>
+ <tr><th> Ils/Elles </th>
  </table>
   
    
