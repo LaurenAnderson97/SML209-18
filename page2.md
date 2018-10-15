@@ -17,7 +17,7 @@ Monday 15<sup>th October
    </dl>
   <table>
  <tr><th> Present </th><th> Past</th><th> Future</th></tr>
- <tr><td> to go </td><td> went </td></tr> 
+ <tr><td> Masculine </td><td> Feminine </td><td> Neuter </td></tr> 
  </table>
   
    
