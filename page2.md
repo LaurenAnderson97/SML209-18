@@ -16,13 +16,14 @@ Monday 15<sup>th October
    <dd>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
    </dl>
   <table>
- <tr><th>Subject</th><th> Past</th><th> Past</th><th> Future</th></tr>
- <tr><th> Je </th>
-  <tr><th> Tu </th>
- <tr><td> Il/Elle/On </td><td> Feminine </td><td> Neuter </td></tr> 
- <tr><th> Nous </th>
- <tr><th> Vous </th>
- <tr><th> Ils/Elles </th>
+ <tr><th>Subject</th><th> Past</th><th> Present</th><th> Future</th></tr>
+ <tr><th> Je </th> </td><td> Mangeais </td><td> Mange </td></tr>
+  <tr><th> Tu </th> </td><td> Mangeais</td><td> Manges </td></tr>
+ <tr><td> Il/Elle/On </td><td> Mangeait </td><td> Mange </td></tr> 
+ <tr><th> Nous </th> </td><td> Mangions </td><td> Mangeons </td></tr>
+ <tr><th> Vous </th> </td><td> Mangiez </td><td> Mangez </td></tr>
+ <tr><th> Ils/Elles </th> </td><td> Mangeaient </td><td> Mangent </td></tr>
+ 
  </table>
   
    
