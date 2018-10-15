@@ -4,4 +4,4 @@ Monday 15<sup>th October
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
  
 <h1>Traveling</h1>
-<d1>Traveling</d1>
+<dt>To make a journey, typically of some length or to move, typically in a constant or predictable way</dt>
