@@ -1,6 +1,8 @@
 <h1>Page 2</h1>
 <h1>HTML Part 2 Homework</h1>
+<h2>
 Monday 15<sup>th October
+ </h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
  
 <dl>
