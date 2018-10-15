@@ -16,7 +16,7 @@ Monday 15<sup>th October
    <dd>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
    </dl>
   <table>
- <tr><th>Subject</th><th> Past</th><th> Present</th><th> Future</th></tr>
+ <tr><th>Subject</th><th> Past</th><th> Present</th><th> 
  <tr><th> Je </th> </td><td> Mangeais </td><td> Mange </td></tr> </td> Mangerai </td></tr>
   <tr><th> Tu </th> </td><td> Mangeais</td><td> Manges </td></tr> </td> Mangeras </td></tr>
  <tr><td> Il/Elle/On </td><td> Mangeait </td><td> Mange </td></tr> </td> Mangera </td></tr>
