@@ -17,12 +17,12 @@ Monday 15<sup>th October
    </dl>
   <table>
  <tr><th>Subject</th><th> Past</th><th> Present</th><th> Future</th></tr>
- <tr><th> Je </th> </td><td> Mangeais </td><td> Mange </td></tr><td> Mangerai </td></tr>
-  <tr><th> Tu </th> </td><td> Mangeais</td><td> Manges </td></tr><td> Mangeras </td></tr>
+ <tr><th> Je </th> </td><td> Mangeais </td><td> Mange </td></tr> <td> Mangerai </td></tr>
+  <tr><th> Tu </th> </td><td> Mangeais</td><td> Manges </td></tr> <td> Mangeras </td></tr>
  <tr><td> Il/Elle/On </td><td> Mangeait </td><td> Mange </td></tr> <td> Mangera </td></tr>
- <tr><th> Nous </th> </td><td> Mangions </td><td> Mangeons </td></tr><td> Mangerons </td></tr>
- <tr><th> Vous </th> </td><td> Mangiez </td><td> Mangez </td></tr><td> Mangerez </td></tr>
- <tr><th> Ils/Elles </th> </td><td> Mangeaient </td><td> Mangent </td></tr><td> Mangeront </td></tr>
+ <tr><th> Nous </th> </td><td> Mangions </td><td> Mangeons </td></tr> <td> Mangerons </td></tr>
+ <tr><th> Vous </th> </td><td> Mangiez </td><td> Mangez </td></tr> <td> Mangerez </td></tr>
+ <tr><th> Ils/Elles </th> </td><td> Mangeaient </td><td> Mangent </td> </tr><td> Mangeront </td></tr>
  
  </table>
   
