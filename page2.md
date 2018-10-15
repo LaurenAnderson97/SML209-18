@@ -16,10 +16,10 @@ Monday 15<sup>th October
    <dd>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
    </dl>
   <table>
- <tr><th></th><th> Past</th><th> Past</th><th> Future</th></tr>
- <tr><th> Present </th>
-  <tr><th> Present </th>
- <tr><td> Masculine </td><td> Feminine </td><td> Neuter </td></tr> 
+ <tr><th>Subject</th><th> Past</th><th> Past</th><th> Future</th></tr>
+ <tr><th> Masculine </th>
+  <tr><th> Feminine </th>
+ <tr><td> Neuter </td><td> Feminine </td><td> Neuter </td></tr> 
  </table>
   
    
