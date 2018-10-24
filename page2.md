@@ -39,3 +39,4 @@ Being aware of cultural values and norms is not only fascinating, but can help u
  <p>  <!-- change heading tag <h2> to paragraph tag <p> -->
 <p lang="fr">Avec le réchauffement climatique, les scientifiques prévoient un renforcement des pluies diluviennes et des crues éclair dans le sud de la France.</p> <!-- change HTML tag <html> to paragraph tag <p> and closing html tag </html> to closing paragraph tag </p> -->
 </p> <!-- change close heading tag </h2> to close paragraph tag </p> -->
+ 
