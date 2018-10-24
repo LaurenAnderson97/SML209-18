@@ -1,4 +1,4 @@
-<h1>Page2</h1>
+<h1>Page 2</h1>
 <h1>HTML Part 2 Homework</h1>
 
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
