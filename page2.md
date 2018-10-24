@@ -7,7 +7,7 @@
  <p> <!-- put paragraph tags around the image -->
 <img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
  
-Being aware of cultural values and norms is not only fascinating, but can help us understand international issues and conflicts, or even relate to the cultural norms of a foreign business partner. It is an important skill to be able to shift perspectives and see where someone else is coming from. In the business world, having lived abroad can give you a competitive edge. Use the confidence and cultural sensitivity that traveling helps you develop and help it make you successful.
+Being aware of cultural values and norms is not only fascinating, but can help us understand international issues and conflicts, or even relate to the cultural norms of a foreign business partner. It is an important skill to be able to shift perspectives and see where someone else is coming from. In the business world, having lived abroad can give you a competitive edge. Use the confidence and cultural sensitivity that traveling helps you develop and help it make you successful.Everyone has their very own reasons to travel. Some people travel for work, some travel for pleasure while for others it is just a way of life. They travel to live and to escape at the same time. There is something therapeutic about being alone and being at peace with it.
  </p>
 
 
