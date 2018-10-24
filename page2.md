@@ -5,7 +5,7 @@
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
  </p>
  <p> <!-- put paragraph tags around the image -->
-<img class= "imgLeft" style=2width:70%;vertical-align:topborder:1px solid red;"src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
+<img class= "imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
  </p>
  <!-- The Description List is perfect -->
 <dl>
