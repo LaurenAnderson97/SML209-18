@@ -2,6 +2,10 @@ theme: jekyll-theme-cayman
 title: Learn English Today
 description: Simple steps to perfect English
 github:
-  page2: page2.html
-  page3: page3.html
+  page2: grammar.html
+  page3: vocabulary.html
+  page4: listening.html
+  page5: reading.html
+  page6: homework.html
+  
  
