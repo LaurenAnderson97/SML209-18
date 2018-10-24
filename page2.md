@@ -5,8 +5,12 @@
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
  </p>
  <p> <!-- put paragraph tags around the image -->
-<img class= "imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
+<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
+ 
+Being aware of cultural values and norms is not only fascinating, but can help us understand international issues and conflicts, or even relate to the cultural norms of a foreign business partner. It is an important skill to be able to shift perspectives and see where someone else is coming from. In the business world, having lived abroad can give you a competitive edge. Use the confidence and cultural sensitivity that traveling helps you develop and help it make you successful.
  </p>
+
+
  <!-- The Description List is perfect -->
 <dl>
  <dt>Traveling</dt>
