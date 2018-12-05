@@ -1,7 +1,13 @@
 <h1>Welcome French Learners</h1>
-<p>This website is designed to provide an insight to the French language and explore the French culture. There will be an implementation of useful vocabulary , grammar and beginner phrases to use abroad in any French country.
+<p>This website is designed to provide an insight to the French language and explore the French culture. 
+ 
+ Three fabulous reasons to use this site
+ 
+You will find an implementation of beginner phrases to use abroad in any French country.
+ 
+There are pages that contain fun and useful activites to learn grammar and vocabulary.
 
-The site will be aimed at anyone who wishes to learn French as a beginner. The site will be useful to those whom are level A1 and A2.</p>
+The site will be aimed at anyone who wishes to learn French as a beginner. The site is useful to those whom are level A1 and A2.</p>
 
 
 <p><a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="Flag of France.svg"></a><br>Public Domain, <a href="https://en.wikipedia.org/w/index.php?curid=33285388">Link</a></p>
