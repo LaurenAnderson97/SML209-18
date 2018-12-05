@@ -2,8 +2,8 @@
 <p>This is my page for SML209</p>
 <!-- REMOVE THE DASHED LINES -->
  <hr>
-<h2> About me </h2>.
-<h1> An intercative map using google maps </h1>
+<h2> About me </h2>
+<h1> An intercative map using Google Maps </h1>
 <iframe src="https://www.google.co.uk/maps/d/embed?mid=15NF8lzASk5m9BUDqSEPRRIW-0WcCHzBU" width="640" height="480"></iframe>
 
  <h3>I was born in Carshalton and grew up in Hertfordshire. I am studying Business Mangement and French. I have lived in London for 3 years. If your require to know more about what I currently study...</h3>
