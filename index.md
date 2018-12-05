@@ -2,6 +2,11 @@
 <p>This website is designed to provide an insight to the French language and explore the French culture. There will be an implementation of useful vocabulary , grammar and beginner phrases to use abroad in any French country.
 
 The site will be aimed at anyone who wishes to learn French as a beginner. The site will be useful to those whom are level A1 and A2.</p>
+
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
+
+<p><a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="Flag of France.svg"></a><br>Public Domain, <a href="https://en.wikipedia.org/w/index.php?curid=33285388">Link</a></p>
+
 <!-- REMOVE THE DASHED LINES -->
  <hr>
 <h2> About me </h2>
