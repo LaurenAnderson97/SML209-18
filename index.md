@@ -5,7 +5,7 @@
  <ol>
  <li> A wide variety of beginner phrases to use abroad in any French country. </li>
  <li> Various pages that contain fun and useful activites to learn grammar and vocabulary. </li>
- <li> Are by you a beginner? Lookn no further...You can achieve levels A1-12. </li>
+ <li> Are by you a beginner? Look no further...You can achieve levels A1-12. </li>
 </ol> </p>
 
 
