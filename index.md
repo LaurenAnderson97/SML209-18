@@ -1,7 +1,7 @@
 <h1>Welcome French Learners</h1>
 <p>This website is designed to provide an insight to the French language and explore the French culture. 
  
- <h3> Three fabulous reasons to use this sit </h3>.
+ <h3> Three fabulous reasons to use this site </h3>
  <ol>
  
  
