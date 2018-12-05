@@ -3,13 +3,10 @@
  
  <h3> Three fabulous reasons to use this site </h3>
  <ol>
- 
- 
-You will find an implementation of beginner phrases to use abroad in any French country.
- 
-There are pages that contain fun and useful activites to learn grammar and vocabulary.
-
-The site will be aimed at anyone who wishes to learn French as a beginner. The site is useful to those whom are level A1 and A2.</p>
+ <li> A wide variety of beginner phrases to use abroad in any French country. </li>
+ <li> Various pages that contain fun and useful activites to learn grammar and vocabulary. </li>
+ <li> Are by you a beginner? Lookn no further...You can achieve levels A1-12. </li>
+</ol> </p>
 
 
 <p><a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="Flag of France.svg"></a><br>Public Domain, <a href="https://en.wikipedia.org/w/index.php?curid=33285388">Link</a></p>
