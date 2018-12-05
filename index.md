@@ -1,7 +1,9 @@
 <h1>Welcome French Learners</h1>
 <p>This website is designed to provide an insight to the French language and explore the French culture. 
  
- Three fabulous reasons to use this site
+ <h3> Three fabulous reasons to use this sit </h3>.
+ <ol>
+ 
  
 You will find an implementation of beginner phrases to use abroad in any French country.
  
