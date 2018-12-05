@@ -1,5 +1,5 @@
-<h1>Homework</h1>
-<h1>HTML Part 2 Homework</h1>
+<h1>Further Study</h1>
+<h1>French interactive exercises</h1>
 
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
