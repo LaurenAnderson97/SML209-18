@@ -1,5 +1,7 @@
 <h1>Welcome</h1>
-<p>This is my page for SML209</p>
+<p>This website is designed to provide an insight to the French language and explore the French culture. There will be an implementation of useful vocabulary , grammar and beginner phrases to use abroad in any French country.
+
+The site will be aimed at anyone who wishes to learn French as a beginner. The site will be useful to those whom are level A1 and A2.</p>
 <!-- REMOVE THE DASHED LINES -->
  <hr>
 <h2> About me </h2>
