@@ -1,5 +1,5 @@
 <h1>Further Study</h1>
-<h1>French interactive exercises</h1>
+<h2>French interactive exercises for more activities and practice</h2>
 
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
