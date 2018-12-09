@@ -1,5 +1,5 @@
 <h1>Welcome French Learners</h1>
-<p>This website is designed to provide an insight to the French language and explore the French culture. 
+<p> Looking to learn French as a beggineer? This website is designed to provide an insight to the French language.
  
  <h3> Three fabulous reasons to use this site </h3>
  <ol>
