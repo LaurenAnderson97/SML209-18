@@ -3,6 +3,7 @@
 <h2>This video is an introduction for French greetings.  The video will be spit into three sections.
   
 <ul>
+  
   <li>Salutations Formelles -Formal Greetings</li>
   <li>Salutations Informelle- Informal Greeting</li>
   <li>Expressions Utiles - Useful Expressions</li>
