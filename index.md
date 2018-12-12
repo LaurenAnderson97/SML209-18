@@ -10,6 +10,7 @@
 
 <p><a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="Flag of France.svg"></a><br>Public Domain, <a href="https://en.wikipedia.org/w/index.php?curid=33285388">Link</a></p>
 
+
 <!-- REMOVE THE DASHED LINES -->
  <hr>
 <h2> About me </h2>
