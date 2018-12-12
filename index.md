@@ -4,15 +4,16 @@
  <h3> Three fabulous reasons to use this site </h3>
  
  <p>
- <ol>
+<a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg">
+<img class="imgRight" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="Flag of France.svg"></a><br>
+     <ol>
  <li> A wide variety of beginner phrases to use abroad in any French country. </li>
  <li> Various pages that contain fun and useful activites to learn grammar and vocabulary. </li>
  <li> Are by you a beginner? Look no further...You can achieve levels A1-12. </li>
 </ol>
+    </p>                                                                                       
 
-<a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg">
-<img class="imgRight" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="Flag of France.svg"></a><br>
-             </p>                                                                                       
+
 <p style="clear:both;"></p>
 
 
