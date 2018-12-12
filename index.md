@@ -13,7 +13,10 @@
                                                                                                     
 
 <!-- REMOVE THE DASHED LINES -->
- <hr>
+<hr>
+
+
+
 <h2> About me </h2>
 <h1> An intercative map using Google Maps </h1>
 <iframe src="https://www.google.co.uk/maps/d/embed?mid=15NF8lzASk5m9BUDqSEPRRIW-0WcCHzBU" width="640" height="480"></iframe>
