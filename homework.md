@@ -1,5 +1,5 @@
 <h1>Further Study</h1>
-<h2>French interactive exercises for more activities and practice</h2>
+
 
 <h2>French interactive websites for more activities and practice:</h2>
 BBC French http://www.bbc.co.uk/languages/french/
