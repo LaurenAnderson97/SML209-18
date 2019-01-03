@@ -1,6 +1,19 @@
 <h1>Further Study</h1>
 <h2>French interactive exercises for more activities and practice</h2>
 
+<h2>French interactive websites for more activities and practice:</h2>
+BBC French http://www.bbc.co.uk/languages/french/
+Babbel https://www.babbel.com/learn-french-online
+Duolingo https://www.duolingo.com/
+Bonjour de France https://www.bonjourdefrance.co.uk/
+Languages Online https://www.languagesonline.org.uk/Hotpotatoes/frenchindex.html
+ 
+<h2>Dictionaries:</h2>
+Wordreference http://www.wordreference.com/
+Linguee https://www.linguee.com/english-french
+Larousse https://www.larousse.com/en/dictionaries/french-english
+
+
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
  </p>
