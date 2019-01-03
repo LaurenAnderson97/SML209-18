@@ -3,17 +3,17 @@
 
 <h2>French interactive websites for more activities and practice:</h2>
 
-
 <a href="http://www.bbc.co.uk/languages/french/">BBC French</a>
-Babbel https://www.babbel.com/learn-french-online
-Duolingo https://www.duolingo.com/
-Bonjour de France https://www.bonjourdefrance.co.uk/
-Languages Online https://www.languagesonline.org.uk/Hotpotatoes/frenchindex.html
+<a href="https://www.babbel.com/learn-french-online">Babbel</a>
+<a href="https://www.duolingo.com/">Duolingo</a>
+<a href="https://www.bonjourdefrance.co.uk/">Bonjour de France</a>
+<a href="https://www.languagesonline.org.uk/Hotpotatoes/frenchindex.html">Langauges Online</a>
  
 <h2>Dictionaries:</h2>
-Wordreference http://www.wordreference.com/
-Linguee https://www.linguee.com/english-french
-Larousse https://www.larousse.com/en/dictionaries/french-english
+
+<a href="http://www.wordreference.com/">Wordrefernce</a>
+<a href="https://www.linguee.com/english-french">Linguee</a>
+<a href="https://www.larousse.com/en/dictionaries/french-english">Larousse</a>
 
 
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
