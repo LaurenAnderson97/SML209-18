@@ -1,5 +1,5 @@
 <h1>Welcome French Learners</h1>
-<p> Looking to learn French as a begineer? This website is designed to provide an insight to the French language.
+<p> Looking to learn French as a beginneer? This website is designed to provide an insight to the French language.
  
  <h3> Three fabulous reasons to use this site </h3>
  
