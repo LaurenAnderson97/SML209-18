@@ -20,7 +20,7 @@
  
 <h2>Dictionaries:</h2>
 
- <li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
+<li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
 
 <li><a href="http://www.wordreference.com/">Wordrefernce</a></li>
 
