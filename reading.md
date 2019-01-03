@@ -1,7 +1,8 @@
 <h1>Manger au restaurant- Eating in a restaurant</h1>
-<h4>Knowing how to order food in French is important in any French speakign country. Whether you’re on a short visit to a French-speaking country or planning to live there eating in French restaurants and cafes can be a lot of fun, especially if you know some basic restaurant vocabulary.
+
+Knowing how to order food in French is important in any French speakign country. Whether you’re on a short visit to a French-speaking country or planning to live there eating in French restaurants and cafes can be a lot of fun, especially if you know some basic restaurant vocabulary.
  
-Here are some useful expressions and words that you might need in a restaurant.</h4>
+Here are some useful expressions and words that you might need in a restaurant.
  
 Je voudrais-I would like 
 <iframe src="https://h5p.org/h5p/embed/399410" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
