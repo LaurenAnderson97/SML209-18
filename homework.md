@@ -4,7 +4,7 @@
 <h2>French interactive websites for more activities and practice:</h2>
 
 <ul>
- <li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
+<li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
 
 <li><a href="https://www.babbel.com/learn-french-online">Babbel</a></li>
 
@@ -16,12 +16,19 @@
 </ul>
 
  
+<ul>
+ 
 <h2>Dictionaries:</h2>
 
-<a href="http://www.wordreference.com/">Wordrefernce</a>
-<a href="https://www.linguee.com/english-french">Linguee</a>
-<a href="https://www.larousse.com/en/dictionaries/french-english">Larousse</a>
+ <li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
 
+<li><a href="http://www.wordreference.com/">Wordrefernce</a></li>
+
+<li><a href="https://www.linguee.com/english-french">Linguee</a></li>
+
+<li><a href="https://www.larousse.com/en/dictionaries/french-english">Larousse</a></li>
+
+</ul>
 
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
