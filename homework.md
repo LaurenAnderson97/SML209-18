@@ -4,13 +4,13 @@
 <h2>French interactive websites for more activities and practice:</h2>
 
 <ul>
-<a href="http://www.bbc.co.uk/languages/french/">BBC French</a>
+ <li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
 
-<a href="https://www.babbel.com/learn-french-online">Babbel</a>
+<li><a href="https://www.babbel.com/learn-french-online">Babbel</a></li>
 
-<a href="https://www.duolingo.com/">Duolingo</a>
+<li><a href="https://www.duolingo.com/">Duolingo</a></li>
 
-<a href="https://www.bonjourdefrance.co.uk/">Bonjour de France</a>
+<li><a href="https://www.bonjourdefrance.co.uk/">Bonjour de France</a></li>
 
 <a href="https://www.languagesonline.org.uk/Hotpotatoes/frenchindex.html">Langauges Online</a>
 </ul>
