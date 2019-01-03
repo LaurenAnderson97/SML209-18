@@ -3,10 +3,12 @@
  
 Here are some useful expressions and words that you might need in a restaurant.</h4>
  
-Je voudrais-I would like <iframe src="https://h5p.org/h5p/embed/399410" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Je voudrais-I would like 
+<iframe src="https://h5p.org/h5p/embed/399410" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-Je voudrais une boisson- I would like a drink<iframe src="https://h5p.org/h5p/embed/399411" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Je voudrais une boisson- I would like a drink
+<iframe src="https://h5p.org/h5p/embed/399411" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
@@ -14,21 +16,28 @@ Je voudrais de la nourriture- I would like some food
 <iframe src="https://h5p.org/h5p/embed/399393" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-Un hamburger- A hamburger <iframe src="https://h5p.org/h5p/embed/399412" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Un hamburger- A hamburger 
+<iframe src="https://h5p.org/h5p/embed/399412" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Une pizza-A pizza <iframe src="https://h5p.org/h5p/embed/399414" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Une pizza-A pizza 
+<iframe src="https://h5p.org/h5p/embed/399414" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Un sandwich- A sandwich <iframe src="https://h5p.org/h5p/embed/399415" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Un sandwich- A sandwich 
+<iframe src="https://h5p.org/h5p/embed/399415" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Une eau minerale- Mineral water <iframe src="https://h5p.org/h5p/embed/399416" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Une eau minerale- Mineral water 
+<iframe src="https://h5p.org/h5p/embed/399416" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Un té- A tea  <iframe src="https://h5p.org/h5p/embed/399419" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Un té- A tea  
+<iframe src="https://h5p.org/h5p/embed/399419" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-Un café-A coffee <iframe src="https://h5p.org/h5p/embed/399420" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Un café-A coffee 
+<iframe src="https://h5p.org/h5p/embed/399420" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-L'addition- The bill <iframe src="https://h5p.org/h5p/embed/399421" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+L'addition- The bill 
+<iframe src="https://h5p.org/h5p/embed/399421" width="1090" height="48" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
