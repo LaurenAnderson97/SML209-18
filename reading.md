@@ -9,10 +9,10 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 <h1>Present tense ER verb</h1>
 
 To conjugate a ER regular verb in the present tense, it is necessary to:
-Take the ending off the verb infinitive:
-parler → parl
-
-This is called the stem.
+ 
+<li>Take the ending off the verb infinitive:</li>
+<li>parler → parl</li> *This is called the stem.
+<li>Then add the endings</li>
 
 The correct ending as shown in the table below:
 <table>
