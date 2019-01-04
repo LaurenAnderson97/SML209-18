@@ -27,23 +27,23 @@ Add the correct ending as shown in the table below:
 
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
- <tr><td>Je</th><th> Mange</th> </tr> 
- <tr><td>Tu</th><th> Manges</th> </tr> 
- <tr><td>Il/Elle/On</th><th> Mange</th> </tr>
- <tr><td>Nous</th><th> Mangeons</th> </tr> 
- <tr><td>Vous</th><th> Mangez</th> </tr>
- <tr><td>Ils/Elles</th><th> Mangent</th> </tr>
+ <tr><td>Je<th> Mange</th> </tr> 
+ <tr><td>Tu<th> Manges</th> </tr> 
+ <tr><td>Il/Elle/On<th> Mange</th> </tr>
+ <tr><td>Nous<th> Mangeons</th> </tr> 
+ <tr><td>Vous<th> Mangez</th> </tr>
+ <tr><td>Ils/Elles<th> Mangent</th> </tr>
  </table>
  
 
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
- <tr><td>Je</th><th> Vends</th> </tr> 
- <tr><td>Tu</th><th> Vends</th> </tr> 
- <tr><td>Il/Elle/On</th><th> Vend</th> </tr>
- <tr><td>Nous</th><th> Vendons</th> </tr> 
- <tr><td>Vous</th><th> Vendez</th> </tr>
- <tr><td>Ils/Elles</th><th> Vendent</th> </tr>
+ <tr><td>Je<th> Vends</th> </tr> 
+ <tr><td>Tu<th> Vends</th> </tr> 
+ <tr><td>Il/Elle/On<th> Vend</th> </tr>
+ <tr><td>Nous<th> Vendons</th> </tr> 
+ <tr><td>Vous<th> Vendez</th> </tr>
+ <tr><td>Ils/Elles<th> Vendent</th> </tr>
  </table>
 
 
