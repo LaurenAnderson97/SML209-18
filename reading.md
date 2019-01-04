@@ -2,6 +2,14 @@
 
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
+ <tr><td>Je</th><th> Mange</th> </tr> 
+ <tr><td>Tu</th><th> Manges</th> </tr> 
+ <tr><td>Il/Elle/On</th><th> Mange</th> </tr>
+ <tr><td>Nous</th><th> Mangeons</th> </tr> 
+ <tr><td>Vous</th><th> Mangez</th> </tr>
+ <tr><td>Ils/Elles</th><th> Mangent</th> </tr>
+ </table>
+
  <tr><td> Je </td> <td>Mange<td> </tr> 
  <tr><td> Tu </td> <td>Manges<td> </tr> 
  <tr><td> Nous </td> <td>Mangeons<td> </tr> 
