@@ -26,6 +26,7 @@ Add the correct ending as shown in the table below:
 
 
 
+
 <table>
  <tr><th>Subject</th><th> Present</th> 
  <tr><td>Je<th> Mange</th> 
@@ -34,19 +35,21 @@ Add the correct ending as shown in the table below:
  <tr><td>Nous<th> Mangeons</th> 
  <tr><td>Vous<th> Mangez</th> 
  <tr><td>Ils/Elles<th> Mangent</th> 
+ 
 
 
 
 <table>
  <tr><th>Subject</th><th> Present</th> 
- <tr><td>Je<th> Vends</th>  
+ <tr><td>Je<th> Vends</th> 
  <tr><td>Tu<th> Vends</th>  
  <tr><td>Il/Elle/On<th> Vend</th> 
  <tr><td>Nous<th> Vendons</th> 
  <tr><td>Vous<th> Vendez</th> 
- <tr><td>Ils/Elles<th> Vendent</th> 
-  
- </table>
+ <tr><td>Ils/Elles<th> Vendent</th>
+
+
+ 
 
 
 <h1>Manger au restaurant- Eating in a restaurant</h1>
