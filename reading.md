@@ -1,5 +1,15 @@
 <h1>Present tense</h1>
 
+<table>                                            
+ <tr><th>Subject</th><th> Present</th> </tr> 
+ <tr><td>Je</th><th> Choisis</th> </tr> 
+ <tr><td>Tu</th><th> Choisis</th> </tr> 
+ <tr><td>Il/Elle/On</th><th> Choisit</th> </tr>
+ <tr><td>Nous</th><th> Choissions</th> </tr> 
+ <tr><td>Vous</th><th> Choissiez</th> </tr>
+ <tr><td>Ils/Elles</th><th> Choissent</th> </tr>
+ </table>
+
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
  <tr><td>Je</th><th> Mange</th> </tr> 
@@ -10,15 +20,6 @@
  <tr><td>Ils/Elles</th><th> Mangent</th> </tr>
  </table>
  
-<table>
- <tr><th>Subject</th><th> Present</th> </tr> 
- <tr><td>Je</th><th> Choisis</th> </tr> 
- <tr><td>Tu</th><th> Choisis</th> </tr> 
- <tr><td>Il/Elle/On</th><th> Choisit</th> </tr>
- <tr><td>Nous</th><th> Choissions</th> </tr> 
- <tr><td>Vous</th><th> Choissiez</th> </tr>
- <tr><td>Ils/Elles</th><th> Choissent</th> </tr>
- </table>
 
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
