@@ -4,22 +4,17 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 
 <h1>Personal Pronouns</h1>
 
-<a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a>
-
-<a href="https://h5p.org/h5p/embed/399600">Quiz for personal pronouns</a>
- 
+<a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a> 
 
 <h1>Present tense</h1>
 
-To conjugate a regular verb in the present tense, it is necessary to:
+To conjugate a ER regular verb in the present tense, it is necessary to:
 Take the ending off the verb infinitive:
 parler → parl
-choisir → chois
-vendre → vend
 
 This is called the stem.
 
-Add the correct ending as shown in the table below:
+The correct ending as shown in the table below:
 
  
 <table>
@@ -31,6 +26,12 @@ Add the correct ending as shown in the table below:
  <tr><td>Vous<th> Mangez</th> 
  <tr><td>Ils/Elles<th> Mangent</th> 
   
+
+
+
+
+
+ 
 <table>
  <tr><th>Subject</th><th> Present</th> 
  <tr><td>Je<th> Vends</th> 
@@ -48,12 +49,6 @@ Add the correct ending as shown in the table below:
  <tr><td>Nous<th> Choissions</th> 
  <tr><td>Vous<th> Choissiez</th> 
  <tr><td>Ils/Elles<th> Choissent</th>
-
-
-
-
- 
-
 
 <h1>Manger au restaurant- Eating in a restaurant</h1>
 
