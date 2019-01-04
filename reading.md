@@ -11,7 +11,7 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 To conjugate a ER regular verb in the present tense, it is necessary to:
 <ol>
 <li>Take the ending off the verb infinitive:</li>
-<li>parler → parl</li> *This is called the stem.
+<li>parler → parl</li> 
 <li>Then add the endings</li>
 </ol>
 
