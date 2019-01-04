@@ -25,10 +25,14 @@ The correct ending as shown in the table below:
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
   
-  
-  
-  
-<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
+<h3>  
+<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a> </h3>
+
+<h1>Present Tense Verbs</h1>
+
+<a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
+<a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a>
+
 
 
 
