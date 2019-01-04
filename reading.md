@@ -25,8 +25,8 @@ The correct ending as shown in the table below:
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
   
-<h3>  
-<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a> </h3>
+
+<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
 
 <h1>Present Tense Verbs</h1>
 
