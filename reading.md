@@ -8,7 +8,7 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 
 <h1>Present tense ER verb</h1>
 
-To conjugate a ER regular verb in the present tense, it is necessary to:
+To conjugate an ER regular verb in the present tense, it is necessary to:
 <ol>
 <li>Take the ending off the verb infinitive:</li>
 <li>parler → parl</li> 
