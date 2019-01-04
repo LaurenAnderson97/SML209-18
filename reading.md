@@ -25,6 +25,7 @@ Add the correct ending as shown in the table below:
  <tr><td>Ils/Elles<th> Choissent</th> </tr>
  </table>
 
+
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
  <tr><td>Je<th> Mange</th> </tr> 
@@ -34,6 +35,7 @@ Add the correct ending as shown in the table below:
  <tr><td>Vous<th> Mangez</th> </tr>
  <tr><td>Ils/Elles<th> Mangent</th> </tr>
  </table>
+ 
  
 
 <table>
