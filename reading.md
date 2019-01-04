@@ -10,12 +10,6 @@
  <tr><td>Ils/Elles</th><th> Mangent</th> </tr>
  </table>
 
- <tr><td> Je </td> <td>Mange<td> </tr> 
- <tr><td> Tu </td> <td>Manges<td> </tr> 
- <tr><td> Nous </td> <td>Mangeons<td> </tr> 
- <tr><td> Vous </td> <td>Mangez<td> </tr> 
- <tr><td> Ils/Elles</td> <td>Mangent<td> </tr> 
- </table>
 
 
 
