@@ -2,11 +2,11 @@
 
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
- <tr><td> Je </td> <td>Mange<td></tr> 
- <tr><td> Tu </td> <td>Manges<td></tr> 
- <tr><td> Nous </td> <td>Mangeons<td></tr> 
- <tr><td> Vous </td> <td>Mangez<td></tr> 
- <tr><td> Ils/Elles</td> <td>Mangent<td></tr> 
+ <tr><td> Je </td> <td>Mange<td> </tr> 
+ <tr><td> Tu </td> <td>Manges<td> </tr> 
+ <tr><td> Nous </td> <td>Mangeons<td> </tr> 
+ <tr><td> Vous </td> <td>Mangez<td> </tr> 
+ <tr><td> Ils/Elles</td> <td>Mangent<td> </tr> 
  </table>
 
 
