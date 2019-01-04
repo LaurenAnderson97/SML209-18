@@ -15,16 +15,14 @@ parler → parl
 This is called the stem.
 
 The correct ending as shown in the table below:
-
- 
 <table>
- <tr><th>Subject</th><th> Present</th> 
- <tr><td>Je<th> Mange</th> 
- <tr><td>Tu<th> Manges</th>  
- <tr><td>Il/Elle/On<th> Mange</th> 
- <tr><td>Nous<th> Mangeons</th> 
- <tr><td>Vous<th> Mangez</th> 
- <tr><td>Ils/Elles<th> Mangent</th> 
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Mange</th> 
+<tr><td>Tu<th> Manges</th>  
+<tr><td>Il/Elle/On<th> Mange</th> 
+<tr><td>Nous<th> Mangeons</th> 
+<tr><td>Vous<th> Mangez</th> 
+<tr><td>Ils/Elles<th> Mangent</th> 
   
 
 
