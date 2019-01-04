@@ -1,3 +1,16 @@
+<h1>Present tense</h1>
+
+<table>
+ <tr><th>Subject</th><th> Past</th><th> Present</th> </tr> 
+ <tr><td> Je </td> <td> Mangeais </td><td> Mange </td></tr> 
+ <tr><td> Tu </td><td> Mangeais</td><td> Manges </td></tr> 
+ <tr><td> Nous </td><td> Mangions </td><td> Mangeons </td></tr> 
+ <tr><td> Vous </td><td> Mangiez </td><td> Mangez </td></tr> 
+ <tr><td> Ils/Elles</td><td> Mangeaient </td><td> Mangent </td> </tr> 
+ </table>
+
+
+
 <h1>Manger au restaurant- Eating in a restaurant</h1>
 
 Knowing how to order food in French is important in any French speakign country. Whether you’re on a short visit to a French-speaking country or planning to live there eating in French restaurants and cafes can be a lot of fun, especially if you know some basic restaurant vocabulary.
