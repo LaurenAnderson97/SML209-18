@@ -1,6 +1,6 @@
 <h1>Articles</h1>
 
-<li><a href="<iframe src="https://h5p.org/h5p/embed/374396" width="1090" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> Articles</a></li>
+<li>="<iframe src="https://h5p.org/h5p/embed/374396" width="1090" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
  
 
 <h1>Present tense</h1>
@@ -17,12 +17,12 @@ Add the correct ending as shown in the table below:
 
 <table>                                            
  <tr><th>Subject</th><th> Present</th> </tr> 
- <tr><td>Je</th><th> Choisis</th> </tr> 
- <tr><td>Tu</th><th> Choisis</th> </tr> 
- <tr><td>Il/Elle/On</th><th> Choisit</th> </tr>
- <tr><td>Nous</th><th> Choissions</th> </tr> 
- <tr><td>Vous</th><th> Choissiez</th> </tr>
- <tr><td>Ils/Elles</th><th> Choissent</th> </tr>
+ <tr><td>Je<th> Choisis</th> </tr> 
+ <tr><td>Tu<th> Choisis</th> </tr> 
+ <tr><td>Il/Elle/On<th> Choisit</th> </tr>
+ <tr><td>Nous<th> Choissions</th> </tr> 
+ <tr><td>Vous<th> Choissiez</th> </tr>
+ <tr><td>Ils/Elles<th> Choissent</th> </tr>
  </table>
 
 <table>
