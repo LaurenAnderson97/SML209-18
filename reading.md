@@ -15,18 +15,7 @@ This is called the stem.
 
 Add the correct ending as shown in the table below:
 
-<table>                                            
- <th>Subject</th><th> Present</th> 
- <tr><td>Je<th> Choisis</th> 
- <tr><td>Tu<th> Choisis</th>  
- <tr><td>Il/Elle/On<th> Choisit</th> 
- <tr><td>Nous<th> Choissions</th> 
- <tr><td>Vous<th> Choissiez</th> 
- <tr><td>Ils/Elles<th> Choissent</th> 
-
-
-
-
+ 
 <table>
  <tr><th>Subject</th><th> Present</th> 
  <tr><td>Je<th> Mange</th> 
@@ -36,8 +25,14 @@ Add the correct ending as shown in the table below:
  <tr><td>Vous<th> Mangez</th> 
  <tr><td>Ils/Elles<th> Mangent</th> 
  
-
-
+<table>                                            
+ <th>Subject</th><th> Present</th> 
+ <tr><td>Je<th> Choisis</th> 
+ <tr><td>Tu<th> Choisis</th>  
+ <tr><td>Il/Elle/On<th> Choisit</th> 
+ <tr><td>Nous<th> Choissions</th> 
+ <tr><td>Vous<th> Choissiez</th> 
+ <tr><td>Ils/Elles<th> Choissent</th>
 
 <table>
  <tr><th>Subject</th><th> Present</th> 
