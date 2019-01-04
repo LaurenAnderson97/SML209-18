@@ -32,23 +32,6 @@ The correct ending as shown in the table below:
 
 
  
-<table>
- <tr><th>Subject</th><th> Present</th> 
- <tr><td>Je<th> Vends</th> 
- <tr><td>Tu<th> Vends</th>  
- <tr><td>Il/Elle/On<th> Vend</th> 
- <tr><td>Nous<th> Vendons</th> 
- <tr><td>Vous<th> Vendez</th> 
- <tr><td>Ils/Elles<th> Vendent</th>
- 
-<table>                                            
- <th>Subject</th><th> Present</th> 
- <tr><td>Je<th> Choisis</th> 
- <tr><td>Tu<th> Choisis</th>  
- <tr><td>Il/Elle/On<th> Choisit</th> 
- <tr><td>Nous<th> Choissions</th> 
- <tr><td>Vous<th> Choissiez</th> 
- <tr><td>Ils/Elles<th> Choissent</th>
 
 <h1>Manger au restaurant- Eating in a restaurant</h1>
 
