@@ -17,12 +17,12 @@ Add the correct ending as shown in the table below:
 
 <table>                                            
  <th>Subject</th><th> Present</th> </tr> 
- <td>Je<th> Choisis</th> </tr> 
- <td>Tu<th> Choisis</th> </tr> 
- <td>Il/Elle/On<th> Choisit</th> </tr>
- <td>Nous<th> Choissions</th> </tr> 
- <td>Vous<th> Choissiez</th> </tr>
- <td>Ils/Elles<th> Choissent</th> </tr>
+ <tr><td>Je<th> Choisis</th> </tr> 
+ <tr><td>Tu<th> Choisis</th> </tr> 
+ <tr><td>Il/Elle/On<th> Choisit</th> </tr>
+ <tr><td>Nous<th> Choissions</th> </tr> 
+ <tr><td>Vous<th> Choissiez</th> </tr>
+ <tr><td>Ils/Elles<th> Choissent</th> </tr>
  </table>
 
 
