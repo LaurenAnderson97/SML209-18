@@ -2,7 +2,7 @@
 
 <table>
  <tr><th>Subject</th><th> Present</th> </tr> 
- <tr><td> Je </td> <td><td> Mange </td></tr> 
+ <tr><td> Je </td> <td>Mange<td></tr> 
  <tr><td> Tu </td><td><td> Manges </td></tr> 
  <tr><td> Nous </td><td> </td><td> Mangeons </td></tr> 
  <tr><td> Vous </td><td> <td> Mangez </td></tr> 
