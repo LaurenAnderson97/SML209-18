@@ -1,5 +1,15 @@
 <h1>Present tense</h1>
 
+To conjugate a regular verb in the present tense, it is necessary to:
+Take the ending off the verb infinitive:
+parler → parl
+choisir → chois
+vendre → vend
+
+This is called the stem.
+
+Add the correct ending as shown in the table below:
+
 <table>                                            
  <tr><th>Subject</th><th> Present</th> </tr> 
  <tr><td>Je</th><th> Choisis</th> </tr> 
