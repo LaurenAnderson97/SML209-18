@@ -17,6 +17,11 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 
 The correct ending as shown in the table below
 <h1></h1>
+
+<h1></h1>  
+<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
+
+<h1>Present Tense IR Verbs</h1>
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Mange</th> 
@@ -26,11 +31,7 @@ The correct ending as shown in the table below
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
 </table>
-<h1></h1>  
-<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
 
-<h1>Present Tense IR Verbs</h1>
-  
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Finis</th> 
@@ -42,7 +43,7 @@ The correct ending as shown in the table below
 </table>
 
 
-<h1>Present Tense RE Verbs</h1>
+<h1>Present Tense IR Verbs</h1>
 
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -55,7 +56,7 @@ The correct ending as shown in the table below
 </table>
 
 
-<h1>Exercises for all Present Tense Verbs</h1>
+<h1>Present Tense RE Verbs</h1>
 
 <a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
 
