@@ -36,7 +36,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <tr><td>Nous<th> Finissons</th> 
 <tr><td>Vous<th> Finissez</th> 
 <tr><td>Ils/Elles<th> Finissent</th>
-</table>
+
 
 
 <h1>Present Tense IR Verbs</h1>
