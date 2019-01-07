@@ -6,7 +6,9 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 
 <a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a> 
 
-<h1>Present tense ER verb</h1>
+<h1>Present tense verbs</h1>
+
+<h2>Present tense ER verbs</h2>
 
 To conjugate an ER regular verb in the present tense, it is necessary to:
 <ol>
@@ -25,10 +27,34 @@ The correct ending as shown in the table below:
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
   
-
 <a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
 
-<h1>Present Tense Verbs</h1>
+<h1>Present Tense ER Verbs</h1>
+
+<table>
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Vends</th> 
+<tr><td>Tu<th> Vends</th>  
+<tr><td>Il/Elle/On<th> Vend</th> 
+<tr><td>Nous<th> Vendons</th> 
+<tr><td>Vous<th> Vendez</th> 
+<tr><td>Ils/Elles<th> Vendent</th>
+
+
+<h1>Present Tense IR Verbs</h1>
+
+<table>
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Finis</th> 
+<tr><td>Tu<th> Finis</th>  
+<tr><td>Il/Elle/On<th> Finit</th> 
+<tr><td>Nous<th> Finissons</th> 
+<tr><td>Vous<th> Finissez</th> 
+<tr><td>Ils/Elles<th> Finissent</th>
+
+
+
+<h1>Exercises for all Present Tense verbs</h1>
 
 <a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
 
