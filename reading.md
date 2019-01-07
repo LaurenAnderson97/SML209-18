@@ -26,7 +26,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <li>Then add the endings</li>
 </ol>
 <h1></h1>
-<a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
+
 
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -54,13 +54,15 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 
 <h1>Present Tense RE Verbs</h1>
 
-<a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
-
-<a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a>
 
 
+<h1>Verb Exercises</h1>
 
+<li><a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a></li>
 
+<li><a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a></li>
+
+<li><a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a></li>
 
  
 
