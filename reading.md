@@ -18,13 +18,14 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 <tr><td>Nous<th> Mangeons</th> 
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
-</table>
+
 To conjugate an ER regular verb in the present tense, it is necessary to:
 <ol>
 <li>Take the ending off the verb infinitive:</li>
 <li>parler → parl</li> 
 <li>Then add the endings</li>
 </ol>
+<h1></h1>
 <a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
 
 <table>
