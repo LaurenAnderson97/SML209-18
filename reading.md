@@ -29,7 +29,7 @@ The correct ending as shown in the table below
 <h1></h1>  
 <a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
 
-<h1>Present Tense IR Verbs</h1>
+<h1>Present Tense ER Verbs</h1>
   
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -42,7 +42,7 @@ The correct ending as shown in the table below
 </table>
 
 
-<h1>Present Tense RE Verbs</h1>
+<h1>Present Tense IR Verbs</h1>
 
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -55,7 +55,7 @@ The correct ending as shown in the table below
 </table>
 
 
-<h1>Exercises for all Present Tense verbs</h1>
+<h1>Present Tense RE Verbs</h1>
 
 <a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
 
