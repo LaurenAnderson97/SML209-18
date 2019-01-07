@@ -41,15 +41,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 
 <h1>Present Tense IR Verbs</h1>
 
-<table>
-<tr><th>Subject</th><th> Present</th> 
-<tr><td>Je<th> Vends</th> 
-<tr><td>Tu<th> Vends</th>  
-<tr><td>Il/Elle/On<th> Vend</th> 
-<tr><td>Nous<th> Vendons</th> 
-<tr><td>Vous<th> Vendez</th> 
-<tr><td>Ils/Elles<th> Vendent</th>
-</table>
+
 <h1>Present Tense RE Verbs</h1>
 <table>
 <tr><th>Subject</th><th> Present</th> 
