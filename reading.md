@@ -5,8 +5,7 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 <h1>Personal Pronouns</h1>
 
 <a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a> 
-
-<h1>Present Tense Verbs</h1>
+>
 
 <h1>Present Tense ER Verbs</h1>
 
@@ -59,7 +58,7 @@ The correct ending as shown in the table below:
 </table>
 
 
-<h2>Exercises for all Present Tense verbs</h2>
+<h1>Exercises for all Present Tense verbs</h1>
 
 <a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
 
