@@ -5,7 +5,6 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 <h1>Personal Pronouns</h1>
 
 <a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a> 
->
 
 <h1>Present Tense ER Verbs</h1>
 
@@ -16,7 +15,8 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <li>Then add the endings</li>
 </ol>
 
-<h4>The correct ending as shown in the table below:</h4>
+The correct ending as shown in the table below
+<h1></h1>
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Mange</th> 
