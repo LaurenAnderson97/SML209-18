@@ -16,7 +16,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <li>Then add the endings</li>
 </ol>
 
-The correct ending as shown in the table below:
+<h4>The correct ending as shown in the table below:</h4>
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Mange</th> 
