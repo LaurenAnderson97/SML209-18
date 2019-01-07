@@ -31,6 +31,10 @@ The correct ending as shown in the table below:
 
 <h1>Present Tense RE Verbs</h1>
 
+
+
+
+<h1>Present Tense IR Verbs</h1>
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Vends</th> 
@@ -39,10 +43,7 @@ The correct ending as shown in the table below:
 <tr><td>Nous<th> Vendons</th> 
 <tr><td>Vous<th> Vendez</th> 
 <tr><td>Ils/Elles<th> Vendent</th>
-
-
-<h1>Present Tense IR Verbs</h1>
-
+  
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Finis</th> 
