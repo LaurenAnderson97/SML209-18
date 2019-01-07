@@ -8,7 +8,7 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 
 <h1>Present tense verbs</h1>
 
-<h2>Present tense ER verbs</h2>
+<h1>Present tense ER verbs</h1>
 
 To conjugate an ER regular verb in the present tense, it is necessary to:
 <ol>
