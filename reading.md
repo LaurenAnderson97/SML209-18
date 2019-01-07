@@ -26,18 +26,14 @@ The correct ending as shown in the table below:
 <tr><td>Nous<th> Mangeons</th> 
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
+</table>
+  
+<h1>Present Tense Verbs RE</h1>
+ 
   
 <a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a>
 
-Present Tense RE Verbs
-<table>
-<tr><th>Subject</th><th> Present</th> 
-<tr><td>Je<th> Vends</th> 
-<tr><td>Tu<th> Vends</th>  
-<tr><td>Il/Elle/On<th> Vend</th> 
-<tr><td>Nous<th> Vendons</th> 
-<tr><td>Vous<th> Vendez</th> 
-<tr><td>Ils/Elles<th> Vendent</th>
+<h1>Present Tense IR Verbs</h1>
   
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -47,16 +43,24 @@ Present Tense RE Verbs
 <tr><td>Nous<th> Finissons</th> 
 <tr><td>Vous<th> Finissez</th> 
 <tr><td>Ils/Elles<th> Finissent</th>
+</table>
 
 
+<h1>Present Tense RE Verbs</h1>
 
-
-<h1>Present Tense IR Verbs</h1>
-
-
+<table>
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Vends</th> 
+<tr><td>Tu<th> Vends</th>  
+<tr><td>Il/Elle/On<th> Vend</th> 
+<tr><td>Nous<th> Vendons</th> 
+<tr><td>Vous<th> Vendez</th> 
+<tr><td>Ils/Elles<th> Vendent</th>
+</table>
 
 
 <h2>Exercises for all Present Tense verbs</h2>
+
 <a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a>
 
 <a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a>
