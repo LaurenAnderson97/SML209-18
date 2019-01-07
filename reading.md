@@ -19,6 +19,7 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th> 
 
+
 To conjugate an ER regular verb in the present tense, it is necessary to:
 <ol>
 <li>Take the ending off the verb infinitive:</li>
@@ -58,17 +59,18 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 
 
 
+
+
+
+
+
+
+
+
+
+
 <li><a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a></li>
 <li><a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a></li>
 <li><a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a></li>
 
 <h1>Verb Exercises</h1>
-
-
-
-
-
-
-
-
-
