@@ -38,7 +38,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <li>parler → parl</li> 
 <li>Then add the endings</li>
 </ol>
-<h1></h1>
+
 
 
 <table>
