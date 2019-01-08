@@ -14,6 +14,7 @@ You can use le present for:
 <li>Habits and facts</li>
 <li>To talk about what you’re doing and how you’re feeling</li>
 
+
 For example I am eating a sandwich-Je mange un sandwich
 
 <h1></h1>  
