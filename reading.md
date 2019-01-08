@@ -32,7 +32,7 @@ For example I am eating a sandwich-Je mange un sandwich.
 
 
 
-<h1>Present Tense ER Verbs</h1>
+<h1>Le Présent ER Verbes</h1>
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Mange</th> 
@@ -64,7 +64,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 
 
 
-<h1>Present Tense IR Verbs</h1>
+<h1>Le Présent IR Verbes</h1>
 
 To conjugate an IR regular verb in the present tense, it is necessary to:
 <ol>
@@ -84,7 +84,7 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 
 
 
-<h1>Present Tense RE Verbs</h1>
+<h1>Le Présent Tense RE Verbes</h1>
 
 To conjugate an RE regular verb in the present tense, it is necessary to:
 <ol>
