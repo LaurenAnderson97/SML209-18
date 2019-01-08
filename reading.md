@@ -10,10 +10,10 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 Le présent known as the present tense in English describes what's currently happening.
 You can use le present for:
 
-What is going to happen in the near future
-Habits and facts
-To talk about what you’re doing and how you’re feeling
-For example I am eating a sandwich-Je mange un sandwich
+<li<What is going to happen in the near future</li>
+<li>Habits and facts</li>
+<li>To talk about what you’re doing and how you’re feeling</li?
+<li>For example I am eating a sandwich-Je mange un sandwich</li>
 
 <h1></h1>  
 
