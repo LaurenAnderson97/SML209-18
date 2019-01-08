@@ -39,12 +39,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <li>Then add the endings</li>
 </ol>
 
-To conjugate an IR regular verb in the present tense, it is necessary to:
-<ol>
-<li>Take the ending off the verb infinitive:</li>
-<li>finir → fin</li> 
-<li>Then add the endings</li>
-</ol>
+
 
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -60,10 +55,10 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 
 <h1>Present Tense IR Verbs</h1>
 
-To conjugate an RE regular verb in the present tense, it is necessary to:
+To conjugate an IR regular verb in the present tense, it is necessary to:
 <ol>
 <li>Take the ending off the verb infinitive:</li>
-<li>vendre → vend</li> 
+<li>finir → fin</li> 
 <li>Then add the endings</li>
 </ol>
 
@@ -79,6 +74,13 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 
 
 <h1>Present Tense RE Verbs</h1>
+
+To conjugate an RE regular verb in the present tense, it is necessary to:
+<ol>
+<li>Take the ending off the verb infinitive:</li>
+<li>vendre → vend</li> 
+<li>Then add the endings</li>
+</ol>
 
 
 
