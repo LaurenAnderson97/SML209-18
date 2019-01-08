@@ -6,7 +6,8 @@ Definite articles - how to say ‘the’ using le, la, l’ or les</a>
 
 <a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a> 
 
-<h1>Present Tense</h1>
+<h1>Présent Tense</h1>
+
 Le présent known as the present tense in English describes what's currently happening.
 
 You can use le present for:
@@ -15,9 +16,7 @@ You can use le present for:
 <li>Habits and facts</li>
 <li>To talk about what you’re doing and how you’re feeling</li>
 
-
-
-For example I am eating a sandwich-Je mange un sandwich
+For example I am eating a sandwich-Je mange un sandwich,
 
 <h1></h1>  
 
