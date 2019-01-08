@@ -1,6 +1,9 @@
 <h1>Articles</h1>
-<a href="https://h5p.org/h5p/embed/374396">Articles are used in languages to indicate a noun - eg the, a or some.
-Definite articles - how to say ‘the’ using le, la, l’ or les</a>
+Articles are used in languages to indicate a noun - eg the, a or some.
+Definite articles - how to say ‘the’ using le, la, l’ or les
+
+<a href="https://h5p.org/h5p/embed/374396">Les articles exercise</a>
+
 
 <h1>Personal Pronouns</h1>
 
