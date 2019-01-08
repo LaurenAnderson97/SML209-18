@@ -1,7 +1,8 @@
 <h1>Articles</h1>
 Articles are used in languages to indicate a noun - eg the, a or some.
-Definite articles - how to say ‘the’ using le, la, l’ or les
+Definite articles - how to say ‘the’ using le, la, l’ or les.
 
+Below is a link for articles 
 <a href="https://h5p.org/h5p/embed/374396">Les articles exercise</a>
 
 
