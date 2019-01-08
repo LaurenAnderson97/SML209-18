@@ -2,15 +2,17 @@
 Articles are used in languages to indicate a noun - eg the, a or some.
 Definite articles - how to say ‘the’ using le, la, l’ or les.
 
-Below is a link for articles 
+Below is a link for exercises 
 <ul>
 <a href="https://h5p.org/h5p/embed/374396">Les articles exercise</a>
-</ul>>
+</ul>
 
 <h1>Personal Pronouns</h1>
-
-<a href="https://h5p.org/h5p/embed/399600">The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it</a> 
-
+The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it
+<ul>
+<a href="https://h5p.org/h5p/embed/399600">Les pronouns exercises</a>
+</ul>
+ 
 <h1>Présent Tense</h1>
 
 Le présent known as the present tense in English describes what's currently happening.
