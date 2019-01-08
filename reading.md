@@ -18,7 +18,7 @@ You can use le present for:
 </ul>
 For example I am eating a sandwich-Je mange un sandwich.
 
-<h1></h1>  
+
 
 
 <h1>Present Tense ER Verbs</h1>
