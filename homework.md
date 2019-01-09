@@ -30,6 +30,19 @@
 
 </ul>
 
+
+
+<h1>Verb Exercises</h1>
+
+<li><a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a></li>
+
+<li><a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a></li>
+
+<li><a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a></li>
+
+
+
+
 <p> <!-- change heading tag <h2> to paragraph tag <p> -->
  Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
  </p>
