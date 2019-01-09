@@ -38,10 +38,14 @@
 </ol>
   
 <a href="https://laurenanderson97.github.io/SML209-18/grammar.html">page 2: why learn french today</a>
-<a href="https://laurenanderson97.github.io/SML209-18/vocabulary.html">page 2: Greetings</a>
-<a href="https://laurenanderson97.github.io/SML209-18/listening.html">page 2: French Vocabulary</a>
-<a href="https://laurenanderson97.github.io/SML209-18/reading.html">page 2: Grammar</a>
-<a href="https://laurenanderson97.github.io/SML209-18/homework.html">page 2: Further Study</a>
+
+<a href="https://laurenanderson97.github.io/SML209-18/vocabulary.html">page 3: Greetings</a>
+
+<a href="https://laurenanderson97.github.io/SML209-18/listening.html">page 4: French Vocabulary</a>
+
+<a href="https://laurenanderson97.github.io/SML209-18/reading.html">page 5: Grammar</a>
+
+<a href="https://laurenanderson97.github.io/SML209-18/homework.html">page 6: Further Study</a>
 
 
 
