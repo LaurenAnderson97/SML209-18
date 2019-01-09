@@ -18,18 +18,6 @@
 
 
 
-<h1>Is French only spoken in France?</h1>
-
-Although French is spoken in many countries around the world, French is an official language in the following countries shown in the map.
-
-Below is an intercative map presenting all the French speaking countries in the world.
-
-
-<h1></h1>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1GwtpxOB108C-ZDzWXY9HzXxil6dBnWXL" width="640" height="480"></iframe>
-
-
 
 <h1>Access to all pages of Learn French Today</h1>
 
