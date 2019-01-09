@@ -25,6 +25,7 @@ Although French is spoken in many countries around the world, French is an offic
 Below is an intercative map presenting all the French speaking countries in the world.
 
 
+<h1></h1>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1GwtpxOB108C-ZDzWXY9HzXxil6dBnWXL" width="640" height="480"></iframe>
 
