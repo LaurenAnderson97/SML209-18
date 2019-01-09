@@ -14,7 +14,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i4YJqmfF6Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<h1> A slower articulation of the greetings</h1>
 
+Below is a a set of flashcards of the greetings previosuly mentioned in the video.
+
+Each flashcard has an audio version of how to articulate the words.
+
+The words have been slowed down in order for the learner to master pronouncing the phrases.
 
 <iframe src="https://h5p.org/h5p/embed/404132" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
