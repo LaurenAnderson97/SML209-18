@@ -31,15 +31,17 @@ Below is an intercative map presenting all the French speaking countries in the 
 
 
 
-<a href="https://laurenanderson97.github.io/SML209-18/grammar.html">page 2: why learn french today</a>
+<h1>Access to all pages of Lear French Today</h1>
 
-<a href="https://laurenanderson97.github.io/SML209-18/vocabulary.html">page 3: Greetings</a>
+<a href="https://laurenanderson97.github.io/SML209-18/grammar.html">Page 2- Why learn French today</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/listening.html">page 4: French Vocabulary</a>
+<a href="https://laurenanderson97.github.io/SML209-18/vocabulary.html">Page 3- Greetings</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/reading.html">page 5: Grammar</a>
+<a href="https://laurenanderson97.github.io/SML209-18/listening.html">Page 4- French Vocabulary</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/homework.html">page 6: Further Study</a>
+<a href="https://laurenanderson97.github.io/SML209-18/reading.html">Page 5- Grammar</a>
+
+<a href="https://laurenanderson97.github.io/SML209-18/homework.html">page 6- Further Study</a>
 
 
 
