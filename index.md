@@ -31,7 +31,7 @@ Below is an intercative map presenting all the French speaking countries in the 
 
 
 
-<h1>Access to all pages of Lear French Today</h1>
+<h1>Access to all pages of Learn French Today</h1>
 
 <a href="https://laurenanderson97.github.io/SML209-18/grammar.html">Page 2- Why learn French today</a>
 
