@@ -1,7 +1,7 @@
 <h1>Welcome French Learners</h1>
 <p> Looking to learn French as a beginneer? This website is designed to provide an insight to the French language.
  
- <h3> Three fabulous reasons to use this site </h3>
+ <h3> Purpose and overiew of Learn French Today</h3>
  
  <p>
 <a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg#/media/File:Flag_of_France.svg">
