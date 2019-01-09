@@ -8,6 +8,8 @@
 
 <a href="https://h5p.org/h5p/embed/403796"> Fill in the gaps</a>
 
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
+
 <a href="https://h5p.org/h5p/embed/403899"> Dictation</a>
 
 <h1>Numbers 1-10</h1>
@@ -18,6 +20,8 @@
 <a href="https://h5p.org/h5p/embed/403144"> Flashcards</a>
 
 <a href="https://h5p.org/h5p/embed/403778"> Fill in the gaps</a>
+
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
 
 <a href="https://h5p.org/h5p/embed/403892"> Dictation</a>
 
@@ -31,6 +35,8 @@
 
 <a href="https://h5p.org/h5p/embed/404002">Fill in the gaps</a>
 
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
+
 <a href="https://h5p.org/h5p/embed/403906">Dictation</a>
 
 <h1>Months of the year</h1>
@@ -42,6 +48,8 @@
 
 <a href="https://h5p.org/h5p/embed/403788">Fill in the gaps</a>
 
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
+
 <a href="https://h5p.org/h5p/embed/403919">Dictation</a>
 
 <h1>Colours</h1>
@@ -52,6 +60,8 @@
 <a href="https://h5p.org/h5p/embed/403151">Flashcards</a>
 
 <a href="https://h5p.org/h5p/embed/403791">Fill in the gaps</a>
+
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
 
 <a href="https://h5p.org/h5p/embed/403904">Dictation</a>
 
@@ -65,9 +75,11 @@
 
 <a href="https://h5p.org/h5p/embed/403153">Flashcards</a>
 
-<a href="https://h5p.org/h5p/embed/403890">Dictation</a>
-
 <a href="https://h5p.org/h5p/embed/403784">Fill in the gaps</a>
+
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
+
+<a href="https://h5p.org/h5p/embed/403890">Dictation</a>
 
 <h1>Weather</h1>
 
@@ -76,6 +88,8 @@
 <a href="https://h5p.org/h5p/embed/403148">Flashcards</a>
 
 <a href="https://h5p.org/h5p/embed/403772">Fill in the gaps</a>
+
+<a href="https://h5p.org/h5p/embed/404007"> Record the words learnt</a>
 
 <a href="https://h5p.org/h5p/embed/403910">Dictation</a>
 
