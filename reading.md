@@ -6,7 +6,7 @@ Definite articles - how to say ‘the’ using le, la, l’ or les.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NukTD7A81uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Below is a link for exercises 
+Below are exercises 
 <ul>
  
 <a href="https://h5p.org/h5p/embed/404204">Audio</a>
@@ -27,6 +27,7 @@ The French language uses five types of personal pronouns. These French pronouns 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TEjPPXd3Ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Below are exercises
 <ul>
 <a href="https://h5p.org/h5p/embed/404203">Audio</a>
  
