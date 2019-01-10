@@ -8,6 +8,10 @@ Definite articles - how to say ‘the’ using le, la, l’ or les.
 
 Below is a link for exercises 
 <ul>
+ 
+<a href="https://h5p.org/h5p/embed/404204">Audio</a>
+
+<h1></h1>
 
 <a href="https://h5p.org/h5p/embed/403082"> Les articles dialogue flash cards</a>
 
@@ -18,7 +22,12 @@ Below is a link for exercises
 
 <h1>Les Pronouns Personelles- Personal Pronouns</h1>
 The French language uses five types of personal pronouns. These French pronouns are the equivalents to I/me, you, or he/him/it
+
 <ul>
+<a href="https://h5p.org/h5p/embed/404203">Audio</a>
+ 
+ <h1></h1>
+ 
 <a href="https://h5p.org/h5p/embed/399600">Les pronouns dialogue cards exercises</a>
  
  <h1></h1>
@@ -57,7 +66,8 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <li>Take the ending off the verb infinitive:</li>
 <li>parler → parl</li> 
 <li>Then add the endings</li>
-</ol>
+ 
+<a href="https://h5p.org/h5p/embed/404208">Audio</a>
 
 
 
@@ -80,6 +90,8 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <li>Take the ending off the verb infinitive:</li>
 <li>finir → fin</li> 
 <li>Then add the endings</li>
+ 
+<a href="https://h5p.org/h5p/embed/404209">Audio</a>
 </ol>
 
 <table>
@@ -101,6 +113,8 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 <li>Take the ending off the verb infinitive:</li>
 <li>vendre → vend</li> 
 <li>Then add the endings</li>
+ 
+<a href="https://h5p.org/h5p/embed/404210">Audio</a>
 </ol>
 
 
