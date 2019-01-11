@@ -132,9 +132,9 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 
 
 
-<p>
-<h1> Exercises pour le Présent</h1> 
-</p>
+
+Exercises pour le Présent
+
 
 
 
