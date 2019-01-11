@@ -66,8 +66,7 @@ For example I am eating a sandwich-Je mange un sandwich.
 <tr><td>Nous<th> Mangeons</th> 
 <tr><td>Vous<th> Mangez</th> 
 <tr><td>Ils/Elles<th> Mangent</th>
-</tr>
-</table>
+
 
 
 
@@ -90,8 +89,7 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 <tr><td>Nous<th> Finissons</th> 
 <tr><td>Vous<th> Finissez</th> 
 <tr><td>Ils/Elles<th> Finissent</th>
-</tr>
-</table
+
 <h1>Le Présent IR Verbes</h1>
 
 To conjugate an IR regular verb in the present tense, it is necessary to:
@@ -103,6 +101,15 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <a href="https://h5p.org/h5p/embed/404209">Audio</a>
 </ol>
 
+<h1>Le Présent RE Verbes</h1>
+
+To conjugate an RE regular verb in the present tense, it is necessary to:
+<ol>
+<li>Take the ending off the verb infinitive:</li>
+<li>vendre → vend</li> 
+<li>Then add the endings</li>
+</ol> 
+<a href="https://h5p.org/h5p/embed/404210">Audio</a>
 
 
 <table>
@@ -113,18 +120,8 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <tr><td>Nous<th> Vendons</th> 
 <tr><td>Vous<th> Vendez</th> 
 <tr><td>Ils/Elles<th> Vendent</th>
-</tr>
-</table>
 
-<h1>Le Présent RE Verbes</h1>
 
-To conjugate an RE regular verb in the present tense, it is necessary to:
-<ol>
-<li>Take the ending off the verb infinitive:</li>
-<li>vendre → vend</li> 
-<li>Then add the endings</li>
-</ol> 
-<a href="https://h5p.org/h5p/embed/404210">Audio</a>
 
 
 
