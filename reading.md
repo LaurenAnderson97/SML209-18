@@ -130,29 +130,6 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 <a href="https://h5p.org/h5p/embed/404210">Audio</a>
 
 
-<ol>
-<table>
-<tr><th>Subject</th><th> Present</th> 
-<tr><td>Je<th> Vends</th> 
-<tr><td>Tu<th> Vends</th>  
-<tr><td>Il/Elle/On<th> Vend</th> 
-<tr><td>Nous<th> Vendons</th> 
-<tr><td>Vous<th> Vendez</th> 
-<tr><td>Ils/Elles<th> Vendent</th>
-</ol>
-
-
-
-<h1> Exercises pour le Présent</h1> 
-<p>
-
-<a href="https://h5p.org/h5p/embed/374403">Drag the words</a>
-
-<a href="https://h5p.org/h5p/embed/399614">Fill in the gaps 1</a>
-
-<a href="https://h5p.org/h5p/embed/374409">Fill in the gaps 2</a>
- 
- </p>
 
 
 
