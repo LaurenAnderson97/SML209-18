@@ -24,19 +24,16 @@
 
 <h1>Access to all pages of Learn French Today</h1>
 
-<a href="https://laurenanderson97.github.io/SML209-18/grammar.html">Page 2- Why learn French today</a>
+<a href="https://laurenanderson97.github.io/SML209-18/grammar.html">Page 2</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/vocabulary.html">Page 3- Greetings</a>
+<a href="https://laurenanderson97.github.io/SML209-18/vocabulary.html">Page 3</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/listening.html">Page 4- French Vocabulary</a>
+<a href="https://laurenanderson97.github.io/SML209-18/listening.html">Page 4</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/reading.html">Page 5- Grammar</a>
+<a href="https://laurenanderson97.github.io/SML209-18/reading.html">Page 5</a>
 
-<a href="https://laurenanderson97.github.io/SML209-18/homework.html">page 6- Further Study</a>
-
-
+<a href="https://laurenanderson97.github.io/SML209-18/homework.html">Page 6</a>
 
 
-github:
-  page2: page2.html
-  page3: page3.html
+
+
