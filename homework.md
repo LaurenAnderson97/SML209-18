@@ -40,19 +40,6 @@
 <li><a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a></li>
 
 
-
-
-<p> <!-- change heading tag <h2> to paragraph tag <p> -->
- Monday 15<sup>th</sup> October <!-- added a closing tag for sup -->
- </p>
- <p> <!-- put paragraph tags around the image -->
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/d/df/El_viaxeru_d%27Urculo.JPG" alt="traveling">
- 
-Being aware of cultural values and norms is not only fascinating, but can help us understand international issues and conflicts, or even relate to the cultural norms of a foreign business partner. It is an important skill to be able to shift perspectives and see where someone else is coming from. In the business world, having lived abroad can give you a competitive edge. Use the confidence and cultural sensitivity that traveling helps you develop and help it make you successful.Everyone has their very own reasons to travel. Some people travel for work, some travel for pleasure while for others it is just a way of life. They travel to live and to escape at the same time. There is something therapeutic about being alone and being at peace with it.
- </p>
-
-
- <!-- The Description List is perfect -->
 <dl>
  <dt>Traveling</dt>
  <dd>To make a journey, typically of some length or to move, typically in a constant or predictable way.</dd>
