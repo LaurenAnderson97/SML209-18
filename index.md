@@ -1,5 +1,8 @@
 <h1>Welcome French Learners</h1>
-<p> Looking to learn French as a beginneer? This website is designed to provide an insight to the French language.
+<p>
+<dl>
+ <dt>The aim?</dt>
+ <dd>Looking to learn French as a beginneer? This website is designed to provide an insight to the French language.</dd>
  
  <h1> Purpose and overiew of Learn French Today</h1>
  
