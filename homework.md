@@ -1,4 +1,4 @@
-<h1>Plus d'entraînement- Further study :French interactive websites for more activities and practice:</h1>
+<h1>Plus d'entraînement- Further study</h1>
 
 <ul>
 <li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
