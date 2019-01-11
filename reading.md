@@ -107,13 +107,6 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 </ol>
 
 
-
-<h1></h1>
-<iframe src="https://h5p.org/h5p/embed/374403" width="1091" height="332" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<iframe src="https://h5p.org/h5p/embed/374409" width="1091" height="424" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<iframe src="https://h5p.org/h5p/embed/399614" width="1091" height="393" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script
 <table>
 <tr><th>Subject</th><th> Present</th> 
 <tr><td>Je<th> Vends</th> 
@@ -122,7 +115,6 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <tr><td>Nous<th> Vendons</th> 
 <tr><td>Vous<th> Vendez</th> 
 <tr><td>Ils/Elles<th> Vendent</th>
-
 
 
 
@@ -137,8 +129,16 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
  
 <a href="https://h5p.org/h5p/embed/404210">Audio</a>
 
+</table>
 
 
+
+<h1></h1>
+<iframe src="https://h5p.org/h5p/embed/374403" width="1091" height="332" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/374409" width="1091" height="424" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/399614" width="1091" height="393" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script
 
 
 
