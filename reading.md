@@ -105,6 +105,8 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
  
 <a href="https://h5p.org/h5p/embed/404209">Audio</a>
 </ol>
+<h1>Exercises pour le Present</h1>
+
 <p>
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -132,8 +134,6 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 
 
 
-
-Exercises pour le Présent
 
 
 
