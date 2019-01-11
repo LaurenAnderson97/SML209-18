@@ -2,7 +2,7 @@
 
 Reasons why French is the best European language to learn...
 
-<iframe src="https://h5p.org/h5p/embed/379324" width="1090" height="674" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEpA5W42SL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1>Is French only spoken in France?</h1>
 
