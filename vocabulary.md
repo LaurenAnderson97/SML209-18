@@ -1,4 +1,4 @@
-<h1>Greetings</h1>
+<h1>Les salutations -Greetings</h1>
 
 <iframe src="https://h5p.org/h5p/embed/404155" width="640" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -24,7 +24,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i4YJqmfF6Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h1> A slower articulation of the greetings</h1>
+<h1>Une articulation plus lente des salutations - A slower articulation of the greetings</h1>
 
 Below is a a set of flashcards of the greetings previosuly mentioned in the video.
 
@@ -39,7 +39,7 @@ The words have been slowed down in order for the learner to master pronouncing t
 
 <h1></h1>
 
-<h1>More greetings exercises</h1> 
+<h1>Plus d'exercises -More greetings exercises</h1> 
 
 <a href="https://h5p.org/h5p/embed/382997">Exercise 1</a>
 
