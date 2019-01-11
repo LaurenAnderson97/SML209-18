@@ -13,11 +13,11 @@ Below are exercises
 
 <h1></h1>
 
-<a href="https://h5p.org/h5p/embed/403082"> Les articles dialogue flash cards</a>
+<a href="https://h5p.org/h5p/embed/403082"> Les articles- dialogue cards</a>
 
 <h1></h1>
 
-<a href="https://h5p.org/h5p/embed/374396">Les articles flashcard exercise</a>
+<a href="https://h5p.org/h5p/embed/374396">Les articles -flashcards</a>
 </ul>
 
 <h1>Les Pronouns Personelles- Personal Pronouns</h1>
@@ -33,11 +33,11 @@ Below are exercises
  
  <h1></h1>
  
-<a href="https://h5p.org/h5p/embed/399600">Les pronouns dialogue cards exercises</a>
+<a href="https://h5p.org/h5p/embed/399600">Les pronouns- dialogue cards</a>
  
  <h1></h1>
  
-<a href="https://h5p.org/h5p/embed/403088">Les pronouns flashcards exercises</a>
+<a href="https://h5p.org/h5p/embed/403088">Les pronouns -flashcards </a>
 </ul>
  
 <h1>Le Présent- The Present Tense</h1>
