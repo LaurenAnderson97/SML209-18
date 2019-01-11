@@ -59,13 +59,13 @@ You can use le present for:
 </ul>
 For example I am eating a sandwich-Je mange un sandwich.
 <table>
- <tr><th>Subject</th><th> Present</th></tr>
-<tr><td>Je<th> Mange</th></tr>
-<tr><td>Tu<th> Manges</th></tr> 
-<tr><td>Il/Elle/On<th> Mange</th></tr> 
-<tr><td>Nous<th> Mangeons</th></tr>
-<tr><td>Vous<th> Mangez</th></tr> 
-<tr><td>Ils/Elles<th> Mangent</th></tr></table>
+<tr><th>Subject</th><th> Present</tr>
+<tr><td>Je<th> Mange</tr>
+<tr><td>Tu<th> Manges</tr> 
+<tr><td>Il/Elle/On<th> Mange</tr> 
+<tr><td>Nous<th> Mangeons</tr>
+<tr><td>Vous<th> Mangez</tr> 
+<tr><td>Ils/Elles<th> Mangent</tr></table>
 
 
 
