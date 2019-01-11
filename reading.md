@@ -144,6 +144,17 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
  </p>
 
 
+<ol>
+<table>
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Vends</th> 
+<tr><td>Tu<th> Vends</th>  
+<tr><td>Il/Elle/On<th> Vend</th> 
+<tr><td>Nous<th> Vendons</th> 
+<tr><td>Vous<th> Vendez</th> 
+<tr><td>Ils/Elles<th> Vendent</th>
+</ol>
+
 
 
 
