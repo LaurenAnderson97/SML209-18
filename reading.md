@@ -63,16 +63,7 @@ For example I am eating a sandwich-Je mange un sandwich.
 
 
 <h1>Le Présent ER Verbes</h1>
-<table>
-<tr><th>Subject</th><th> Present</th> 
-<tr><td>Je<th> Mange</th> 
-<tr><td>Tu<th> Manges</th>  
-<tr><td>Il/Elle/On<th> Mange</th> 
-<tr><td>Nous<th> Mangeons</th> 
-<tr><td>Vous<th> Mangez</th> 
-<tr><td>Ils/Elles<th> Mangent</th> 
-
-
+ 
 To conjugate an ER regular verb in the present tense, it is necessary to:
 <ol>
 <li>Take the ending off the verb infinitive:</li>
@@ -81,19 +72,16 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
  
 <a href="https://h5p.org/h5p/embed/404208">Audio</a>
 
-
-
 <table>
 <tr><th>Subject</th><th> Present</th> 
-<tr><td>Je<th> Finis</th> 
-<tr><td>Tu<th> Finis</th>  
-<tr><td>Il/Elle/On<th> Finit</th> 
-<tr><td>Nous<th> Finissons</th> 
-<tr><td>Vous<th> Finissez</th> 
-<tr><td>Ils/Elles<th> Finissent</th>
-
-
-
+<tr><td>Je<th> Mange</th> 
+<tr><td>Tu<th> Manges</th>  
+<tr><td>Il/Elle/On<th> Mange</th> 
+<tr><td>Nous<th> Mangeons</th> 
+<tr><td>Vous<th> Mangez</th> 
+<tr><td>Ils/Elles<th> Mangent</th>
+</tr>
+</table>
 
 <h1>Le Présent IR Verbes</h1>
 
@@ -106,6 +94,26 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <a href="https://h5p.org/h5p/embed/404209">Audio</a>
 </ol>
 
+<table>
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Finis</th> 
+<tr><td>Tu<th> Finis</th>  
+<tr><td>Il/Elle/On<th> Finit</th> 
+<tr><td>Nous<th> Finissons</th> 
+<tr><td>Vous<th> Finissez</th> 
+<tr><td>Ils/Elles<th> Finissent</th>
+</tr>
+</table>
+
+<h1>Le Présent RE Verbes</h1>
+
+To conjugate an RE regular verb in the present tense, it is necessary to:
+<ol>
+<li>Take the ending off the verb infinitive:</li>
+<li>vendre → vend</li> 
+<li>Then add the endings</li>
+ 
+<a href="https://h5p.org/h5p/embed/404210">Audio</a>
 
 <table>
 <tr><th>Subject</th><th> Present</th> 
@@ -116,20 +124,8 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <tr><td>Vous<th> Vendez</th> 
 <tr><td>Ils/Elles<th> Vendent</th>
 <h1>Le Présent Tense RE Verbes</h1>
-
-
-
-To conjugate an RE regular verb in the present tense, it is necessary to:
-<ol>
-<li>Take the ending off the verb infinitive:</li>
-<li>vendre → vend</li> 
-<li>Then add the endings</li>
- 
-<a href="https://h5p.org/h5p/embed/404210">Audio</a>
-
-
-
-
+</tr>
+</table>
 
 
 <h1>Les exercises du Présent- Present Tense exercises</h1>
