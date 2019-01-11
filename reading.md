@@ -107,17 +107,6 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 </ol>
 
 
-<ol>
-<table>
-<tr><th>Subject</th><th> Present</th> 
-<tr><td>Je<th> Vends</th> 
-<tr><td>Tu<th> Vends</th>  
-<tr><td>Il/Elle/On<th> Vend</th> 
-<tr><td>Nous<th> Vendons</th> 
-<tr><td>Vous<th> Vendez</th> 
-<tr><td>Ils/Elles<th> Vendent</th>
-</ol>
-
 
 
 <h1>Le Présent Tense RE Verbes</h1>
@@ -129,7 +118,18 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 <li>Then add the endings</li>
  
 <a href="https://h5p.org/h5p/embed/404210">Audio</a>
+
+<ol>
+<table>
+<tr><th>Subject</th><th> Present</th> 
+<tr><td>Je<th> Vends</th> 
+<tr><td>Tu<th> Vends</th>  
+<tr><td>Il/Elle/On<th> Vend</th> 
+<tr><td>Nous<th> Vendons</th> 
+<tr><td>Vous<th> Vendez</th> 
+<tr><td>Ils/Elles<th> Vendent</th>
 </ol>
+
 
 
 <h1> Exercises pour le Présent</h1> 
