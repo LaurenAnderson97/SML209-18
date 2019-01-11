@@ -128,7 +128,7 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
  
 <a href="https://h5p.org/h5p/embed/404210">Audio</a>
 
-</table>
+<hr>
 
 
 
