@@ -17,7 +17,7 @@
  
 <ul>
  
-<h2>Dictionaries:</h2>
+<h1>Dictionaries:</h1>
 
 <li><a href="http://www.bbc.co.uk/languages/french/">BBC French</a></li>
 
@@ -31,26 +31,8 @@
 
 
 
-<h1>Verb Exercises</h1>
-
-<li><a href="https://h5p.org/h5p/embed/399614"> Fill in the missing verbs for ER verbs</a></li>
-
-<li><a href="https://h5p.org/h5p/embed/374403"> Present tense verb match the words</a></li>
-
-<li><a href="https://h5p.org/h5p/embed/374409"> Present tense verb fill in the gap</a></li>
 
 
-<dl>
- <dt>Traveling</dt>
- <dd>To make a journey, typically of some length or to move, typically in a constant or predictable way.</dd>
 
-
- <dt>Enrich</dt>
- <dd>To improve or enhance the quality or value of something or to make someone wealthier.</dd>
- 
-  
-   <dt>Langauge</dt>
-   <dd>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
-   </dl>
 
  
