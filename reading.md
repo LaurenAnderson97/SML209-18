@@ -137,11 +137,15 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 
 <a href="https://h5p.org/h5p/embed/374403">Drag the words</a>
 
+<h1></h1>
 <a href="https://h5p.org/h5p/embed/399614">Fill in the gaps 1</a>
+<h1></h1>
 
 <a href="https://h5p.org/h5p/embed/374409">Fill in the gaps 2</a>
+<h1></h1>
 
 <a href="https://h5p.org/h5p/embed/405834">Dictation</a>
+<h1></h1>
 
 <a href="https://h5p.org/h5p/embed/405836">Audio recorder</a>
 
