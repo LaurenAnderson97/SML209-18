@@ -21,6 +21,11 @@ Below is an intercative map presenting all the French speaking countries in the 
 
 <iframe src="https://h5p.org/h5p/embed/404126" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+If you wish to know more...
+<a href="https://www.expatica.com/fr/about/30-interesting-facts-about-France_109142.html">Interesting facts</a>
+
+<a href="https://jadorelyon.com/top-20-interesting-strange-facts-french-language/">More facts...</a>
+
 <h1>Learn to make these famous French patisseries</h1>
 
 Does these French patisseries look delightful?
