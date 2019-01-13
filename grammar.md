@@ -8,7 +8,7 @@ Reasons why French is the best European language to learn...
 
 Although French is spoken in many countries around the world, French is an official language in the following countries shown in the map.
 
-Below is an intercative map presenting all the French speaking countries in the world.
+Below is a map presenting all the French speaking countries in the world.
 
 
 <h1></h1>
