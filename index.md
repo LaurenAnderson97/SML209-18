@@ -2,7 +2,7 @@
 <p>
 <dl>
  <dt>The aim?</dt>
- <dd>Looking to learn French as a beginneer? This website is designed to provide an insight to the French language. Learners have access      to a large variety of multimedia and interactive actvities to guarantee he maximum opportunity of learning French.</dd>
+ <dd>Looking to learn French as a beginneer? This website is designed to provide an insight to the French language. Learners have access      to a large variety of multimedia and interactive actvities to guarantee the maximum opportunity of learning French.</dd>
  
  <h1> Purpose and overiew of Learn French Today</h1>
  
