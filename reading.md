@@ -49,6 +49,17 @@ Le présent known as the present tense in English describes what's currently hap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahmIEn3liXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h1></h1>
+
+You can use le present for:
+<ul>
+<li>What is going to happen in the near future.</li>
+<li>Habits and facts.</li>
+<li>To talk about what you’re doing and how you’re feeling.</li>
+</ul>
+For example I am eating a sandwich-Je mange un sandwich.
+
+
 <h1>Les exercises du Présent- Present Tense exercises</h1>
 
 <a href="https://h5p.org/h5p/embed/374403">Drag the words</a>
@@ -71,15 +82,7 @@ Le présent known as the present tense in English describes what's currently hap
 
 
 
-<h1></h1>
 
-You can use le present for:
-<ul>
-<li>What is going to happen in the near future.</li>
-<li>Habits and facts.</li>
-<li>To talk about what you’re doing and how you’re feeling.</li>
-</ul>
-For example I am eating a sandwich-Je mange un sandwich.
 <table>
  <tr><th>Subject</th><th> Present</th>
  <tr><td>Je<th> Mange</th>
