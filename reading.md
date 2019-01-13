@@ -49,6 +49,28 @@ Le présent known as the present tense in English describes what's currently hap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahmIEn3liXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h1>Les exercises du Présent- Present Tense exercises</h1>
+
+<a href="https://h5p.org/h5p/embed/374403">Drag the words</a>
+
+<h1></h1>
+<a href="https://h5p.org/h5p/embed/399614">Fill in the gaps 1</a>
+<h1></h1>
+
+<a href="https://h5p.org/h5p/embed/374409">Fill in the gaps 2</a>
+<h1></h1>
+
+<a href="https://h5p.org/h5p/embed/405834">Dictation</a>
+<h1></h1>
+
+<a href="https://h5p.org/h5p/embed/405836">Audio recorder</a>
+
+
+
+
+
+
+
 <h1></h1>
 
 You can use le present for:
@@ -105,7 +127,14 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 
 <a href="https://h5p.org/h5p/embed/404209">Audio</a>
 
-
+<table>
+<tr><th>Subject</th><th> Present</th>
+<tr><td>Je<th> Vends</th>
+<tr><td>Tu<th> Vends</th>
+<tr><td>Il/Elle/On<th> Vend</th>
+<tr><td>Nous<th> Vendons</th> 
+<tr><td>Vous<th> Vendez</th> 
+<tr><td>Ils/Elles<th> Vendent</th>
 
 <h1>Le Présent RE Verbes</h1>
 
@@ -120,21 +149,7 @@ To conjugate an RE regular verb in the present tense, it is necessary to:
 
 
 
-<h1>Les exercises du Présent- Present Tense exercises</h1>
 
-<a href="https://h5p.org/h5p/embed/374403">Drag the words</a>
-
-<h1></h1>
-<a href="https://h5p.org/h5p/embed/399614">Fill in the gaps 1</a>
-<h1></h1>
-
-<a href="https://h5p.org/h5p/embed/374409">Fill in the gaps 2</a>
-<h1></h1>
-
-<a href="https://h5p.org/h5p/embed/405834">Dictation</a>
-<h1></h1>
-
-<a href="https://h5p.org/h5p/embed/405836">Audio recorder</a>
 
 
 
