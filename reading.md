@@ -59,14 +59,14 @@ You can use le present for:
 </ul>
 For example I am eating a sandwich-Je mange un sandwich.
 <table>
- <tr><th>Subject</th><th> Present</th></tr>
- <tr><td>Je<th> Mange</th></tr>
- <tr><td>Tu<th> Manges</th></tr> 
- <tr><td>Il/Elle/On<th> Mange</th></tr> 
- <tr><td>Nous<th> Mangeons</th></tr>
- <tr><td>Vous<th> Mangez</th></tr> 
- <tr><td>Ils/Elles<th> Mangent</th></tr>
-</table>
+ <tr><th>Subject</th><th> Present</th>
+ <tr><td>Je<th> Mange</th>
+ <tr><td>Tu<th> Manges</th> 
+ <tr><td>Il/Elle/On<th> Mange</th>
+ <tr><td>Nous<th> Mangeons</th>
+ <tr><td>Vous<th> Mangez</th>
+ <tr><td>Ils/Elles<th> Mangent</th>
+
 
 
 
@@ -83,15 +83,15 @@ To conjugate an ER regular verb in the present tense, it is necessary to:
 
 
 <table>
-<tr><th>Subject</th><th> Present</th></tr>
-<tr><td>Je<th> Finis</th></tr>
-<tr><td>Tu<th> Finis</th></tr>  
-<tr><td>Il/Elle/On<th> Finit</th></tr>
-<tr><td>Nous<th> Finissons</th></tr> 
-<tr><td>Vous<th> Finissez</th></tr> 
-<tr><td>Ils/Elles<th> Finissent</th></tr>
+<tr><th>Subject</th><th> Present</th>
+<tr><td>Je<th> Finis</th>
+<tr><td>Tu<th> Finis</th>
+<tr><td>Il/Elle/On<th> Finit</th>
+<tr><td>Nous<th> Finissons</th> 
+<tr><td>Vous<th> Finissez</th> 
+<tr><td>Ils/Elles<th> Finissent</th>
 
-</table>
+
 
 <h1>Le Présent IR Verbes</h1>
 
@@ -106,13 +106,13 @@ To conjugate an IR regular verb in the present tense, it is necessary to:
 <a href="https://h5p.org/h5p/embed/404209">Audio</a>
 
 <table>
-<tr><th>Subject</th><th> Present</th></tr> 
-<tr><td>Je<th> Vends</th></tr> 
-<tr><td>Tu<th> Vends</th></tr>  
-<tr><td>Il/Elle/On<th> Vend</th></tr> 
-<tr><td>Nous<th> Vendons</th></tr> 
-<tr><td>Vous<th> Vendez</th></tr> 
-<tr><td>Ils/Elles<th> Vendent</th></tr>
+ <tr><th>Subject</th><th> Present</th>
+<tr><td>Je<th> Vends</th>
+ <tr><td>Tu<th> Vends</th>  
+ <tr><td>Il/Elle/On<th> Vend</th> 
+<tr><td>Nous<th> Vendons</th> 
+<tr><td>Vous<th> Vendez</th> 
+<tr><td>Ils/Elles<th> Vendent</th>
 </table>
 
 <h1>Le Présent RE Verbes</h1>
