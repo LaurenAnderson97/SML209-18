@@ -3,7 +3,7 @@
 <iframe src="https://h5p.org/h5p/embed/404155" width="640" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-<h3>In any language, it is important to know how to greet someone. Greetings are of significant importance in regards to the French culture, whether it is the first time or on occassion.</h3>
+In any language, it is important to know how to greet someone. Greetings are of significant importance in regards to the French culture, whether it is the first time or on occassion.
 
 <h1></h1>
 
