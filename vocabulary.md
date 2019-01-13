@@ -3,7 +3,7 @@
 <iframe src="https://h5p.org/h5p/embed/404155" width="640" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-<h3>In any language, it is important to know how to greet someone.The French hold a significant importance to greeting someone, whethere it is the first time on occassion.</h3>
+<h3>In any language, it is important to know how to greet someone. Greetings are of significant importance in regards to the French culture, whether it is the first time or on occassion.</h3>
 
 <h1></h1>
 
@@ -24,9 +24,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i4YJqmfF6Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h1>Une articulation plus lente des salutations - A slower articulation of the greetings</h1>
+<h1>Une articulation plus lente des salutations - A slower articulation for greetings</h1>
 
-Below is a a set of flashcards of the greetings previosuly mentioned in the video.
+Below is a a set of flashcards for greetings that was previosuly mentioned in the video.
 
 Each flashcard has an audio version of how to articulate the words.
 
